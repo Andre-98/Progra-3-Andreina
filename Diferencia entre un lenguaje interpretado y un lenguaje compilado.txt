@@ -1,0 +1,31 @@
+¿Cuál es la diferencia entre un lenguaje interpretado y un lenguaje compilado?
+La diferencia entre un lenguaje interpretado y un lenguaje compilado es que el 
+lenguaje interpretado lee el código fuente, es decir, las instrucciones que el 
+programador escribe, e interpreta lo que entiende de ese código, es decir, traduce 
+el código fuente paso a paso recorriéndolo línea por línea para luego ejecutar  
+el programa con lo que entendió del código, generalmente en un lenguaje interpretado 
+al ejecutar el programa, éste no va a presentar ningún error durante el recorrido del 
+mismo sino que va a mostrar el error o los errores que hayan hasta el final del 
+programa y eso se debe a que a diferencia de un lenguaje compilado en el que el 
+compilador se encarga de traducir el código escrito por el programador para guardarlo 
+en un archivo objeto, el cual es un archivo en donde se guarda dicha traducción del 
+código fuente al lenguaje máquina o similar a el para luego hacer una vinculación de 
+todos esos pasos y por último generar un ejecutable, es decir, un archivo en el cual 
+se ejecute el programa de forma correcta, sin ningún tipo de error; el lenguaje interpretado 
+pasa de la traducción del código fuente al ejecutable, saltándose todos los demás pasos. 
+
+Ventajas del lenguaje compilado 
+Son más rápidos que los lenguajes interpretados.
+El código fuente es inaccesible.
+
+Desventajas del lenguaje compilado
+No son multiplataforma.
+Son más complicados.
+
+Ventajas del lenguaje interpretado
+Son multiplataforma, cada plataforma añade su propio intérprete.
+Son más sencillos. 
+
+Desventajas del lenguaje interpretado.
+Son más lentos.
+El código fuente es público.

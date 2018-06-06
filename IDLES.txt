@@ -1,0 +1,5 @@
+Los IDLES que pude encontrar fueron:
+IDLEfork
+IDLEextensions , de éste no estoy muy segura que sea un 
+IDLE y con respecto a cuál recomiendo la verdad no he 
+usado ninguno entonces no sabría decir cuál es mejor que cuál.

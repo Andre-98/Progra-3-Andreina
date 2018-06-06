@@ -1,0 +1,9 @@
+¿Qué significa tipado dinámico Y tipado fuerte en python?
+En Python el tipado dinámico significa que se puede declarar 
+una variable sin necesidad de declarar de qué tipo se está 
+declarando dicha variable, ya que de acuerdo al valor de la 
+variable el mismo lenguaje se encarga de clasificar el tipo 
+al que pertenece, por otra parte tipado fuerte es cuando el 
+lenguaje no acepta tipos de variables diferentes al tipo de 
+terminado, es decir, no acepta variables de tipos similares, tienen 
+que ser tipos iguales, de no ser así se tendría que hacer una conversión.

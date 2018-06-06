@@ -1,0 +1,22 @@
+Versión 2.7 vs 3.5
+¿Cuáles son algunas diferencias entre las dos versiones existentes de Python?
+Python versión 2.7
+*No es obligatorio el uso de paréntesis, por ejemplo, para imprimir “Hola Mundo”.
+*La división de enteros devuelve un entero, por ejemplo7/2 da 3.
+*La función raw_input( ) se utiliza para obtener la entrada del usuario.
+
+Python versión 3.5
+*Sí es obligatorio el uso de paréntesis, por ejemplo, para imprimir print(“Hola Mundo”).
+*La división de enteros puede dar una respuesta flotadora, por ejemplo 7/2 daría 3.5.
+*La función raw_input( ) no está disponible.
+
+¿Cuáles son los planes futuros para cada versión?
+Para la versión 2.7 no hay muchos planes a futuro ya que a partir del año 2020se dejará 
+de desarrollar en esta versión, por otro lado, para la versión 3 aún quedan muchos planes 
+futuros empezando con la actualización 3.7 que es la próxima y la cual saldrá en junio del 
+2018, es decir, este mes. 
+
+¿Qué versión recomiendas usar y por qué?
+Considero que se debería usar la versión 3.5 porque está más desarrollada que la 2.7 y 
+aunque tal vez la 2.7 sea más utilizada ya está predicho que para el 2020 no seguirán 
+innovando en esa versión por lo tanto quedará atrás.
